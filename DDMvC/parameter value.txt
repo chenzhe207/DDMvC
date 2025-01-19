@@ -1,0 +1,24 @@
+MNIST-USPS
+lambda1=1, lambda2=1e-4, batch_size=256,  mse_epoch=200, con_epoch=200
+seed = 10
+
+Caltech-5V
+lambda1=1e-3, lambda2=10, batch_size=256,  mse_epoch=200, con_epoch=200
+seed = 5
+
+YouTubeVideo
+lambda1=1e-3, lambda2=1e-4, batch_size=256,  mse_epoch=200, con_epoch=200
+seed=10
+
+Fashion-MV
+lambda1=1e-2, lambda2=1e-1, batch_size=256,  mse_epoch=200, con_epoch=200
+seed = 10
+
+NUSWIDE
+lambda1=1e-3, lambda2=1e-2, batch_size=256,  mse_epoch=200, con_epoch=195
+seed = 5
+
+
+
+通过网盘分享的文件：DDMvC-data
+链接: https://pan.baidu.com/s/1Tmb4JBVjCiLb4nPH4eQwCw 提取码: 7m3a
